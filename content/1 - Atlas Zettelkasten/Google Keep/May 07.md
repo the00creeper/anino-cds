@@ -1,0 +1,40 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+MAY 07
+- punta school linis 6:30
+- shoot vid
+- Puro kabugukan
+- Uwi
+- Kasama aaron
+- Tuloy paggawa at pagpapapirma awards
+- Daan kila Cy mga 12 para print with aarn
+- May namali sa sinend
+- Uwi mag-isa para lang baguhin
+- Balik kila Cy
+- Nabago na, print na rin
+- Punta school mga 12:45 para magpapirma
+- Mga 2 na nakauwi
+- Babalik na lang
+- Kain tanghalian salit
+- Bakbakan na ulit
+- Di nakatapos kumain
+- Punta ulit school, arts na raw ineevaluate
+- Mga 5 na nakauwi
+- Balik bahay
+- Inom saglit
+- Biyahe na ulit
+- Punta pa-solder microchip (byahe na naman)
+- Nakipag-kwentuhan sa electrician about politics
+- Natapos
+- Hinatid pa Aaron pauwi
+- Nakikape syempre kapagod
+- Kinumusta papa niya si tito (dating magkaklase)
+- Uwi na
+- Hinto saglit sa paradise
+- Namiss siya slight
+- Daputin sana sa kanila HAHAHA
+- Low batt nyems
+- Uwi na lang (longkot)

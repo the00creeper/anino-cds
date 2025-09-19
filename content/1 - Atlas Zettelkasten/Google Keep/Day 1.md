@@ -1,0 +1,18 @@
+---
+Date‎: "[[2024年11月03日 (Sun)]]"
+Tags‎:
+  - "[[mad]]"
+  - "[[x/Tags/thoughts|thoughts]]"
+  - "[[encounters]]"
+---
+Dalawampu’t apat na oras ang nakalilipas, kung tawagin nila ay “Day 1.” Sa gitna ng isang mainit na tanghali, mabigat kong binuhat ang aking mga paa para lamang makatuntong sa _jeep_ na aking sasakyan pauwi. Baon ang kaalamang maaring ito na ang huling beses na ako’y uuwi matapos ang ating pagkikita, hindi ko maitago ang lungkot sa aking mga mata. Sa huling hatid, hindi ko na alam ang aking gagawin.
+
+Hindi ko napigilang humiga. Nakita kong muli ang [bidyo ng kasal nina Jorge at Mitchelle](https://www.facebook.com/ContemporaryArtVideos/videos/2358425854518191) na kuha lamang gamit ang isang lumang _camcorder_. Ginamit nito ang kantang _Talagang Sa Iyo_ ng Rainmakers; naging musika ito ng aking mapanglaw na pagmumuni-muni.
+
+Palaging inihahalintulad ang puso ng tao sa isang salamin sapagkat ito ay babasagin. Hindi ko pa nararanasan na “mabasag” na aking puso. Ito’y ipinaramdam mo sa akin; sa pisikal na banda, mabigat ang aking dibdib, nararamdaman kong malakas ang tibok ng aking puso habang iniisip ko ang lahat. Inisip ko ang nakaraan at hinaharap: inisip ko kung saan ba ako nagkulang sa nakaraan at inisip ko rin kung ano na ba ang para sa hinaharap. Basag na nga ang puso, magulo pa ang isip. Wala nang laman ang aking diwa.
+
+Pumunta kami ni [[Mhartyn Pierre Heactor Santiano|Pierre]] sa [[San Isidro]] para ibalita sa kaniya ang lahat. Doon kami’y nag-inuman ng gin sa Plaza—sa lugar ng una nating labas nang tayong dalawa lamang. Sa mga sandaling ito’y hindi ko pa alam kung paano ko sasabihin ang nangyari. Kalaunan ay nakauwi na kami at tinuloy namin ang aming inuman sa kanilang bahay. Nakainom pa ulit kami ng isa pang bote. Dumating ang kaniyang ina at tita na tubong-Quezon; katawa-tawang sa kanila ko nasabi ang lahat habang nakikinig si Pierre. Nang umakyat na sila, ipinaalam ko kay Pierre ang lahat nang may mas malinaw na detalye. Hindi siya makapaniwala sa dalawang taon. Dumating naman ang kaniyang pinsan na babaeng nasa ika-walong baitang na, *como* lumaking bihasa sa _gadgets_ at _internet_, ay Inglesera. Siya’y namangha sa aking pagkadalubhasa sa Ingles; hindi naman makakibo si Pierre habang kami’y nag-uusap.
+
+Sa aking pagkalasing, nagulat na lamang ako na ako’y kabod nang nasa kanilang higaan sa taas ng bahay kinabukasan. Matapos umakyat ang pinsan ni Pierre na Inglesera ay hindi ko na matandaan ang nangyari kasunod noon. Nagulat na lamang ako na may kuha siyang bidyo ng aking pag-akyat sa hagdan, bagay na hindi ko talaga maalala na akin palang ginawa.
+
+Kanina ay walang-lubay ka na naman sa paggambala sa isip ko. Pumunta ako ng ilog sa Pantalan para doon kita isipin. Hindi pa nga pala kita nadadala roon. Gustong gusto ko pa namang makita mo ang kagandahan ng langit at ilog sa oras ng dapit-hapon. Pauwi na si Pierre sa Cabanatuan dahil may pasok na bukas. Nang gumabi’y dumami na ang lamok, kaya’t ako’y lumisan na. Hindi ka pa rin mawala sa isipan ko sa pagmamaneho. Binalak kong pumunta sa [[Entablado]]—sa lugar na tayo lamang ang nakakaalam. Sa aking pagliko sa kanto niyo sa Norte ay umilaw sa manibela na mauubusan na ako ng gasolina. Nais ko pa naman sanang daanan ang inyong tahanan. Sa paakyat sa dike ay kinaliwa ko na ang manibela papunta sa amin. Gagawa at gagawa ka talaga ng paraan para hindi ko maramdaman ang iyong presensya.

@@ -1,0 +1,44 @@
+---
+Date‎: "[[2025年04月30日 (Wed)]]"
+Time: 02:31 pm
+Tags‎:
+  - "[[working content]]"
+  - "[[drafts]]"
+---
+- What’s up mga kamote, kamotinians, kamoters
+- Wala nang shaders
+- Bago sa daan
+- Wala na talaga kanal
+- World tour next vid (possibly)
+- Bahay ni eko
+- Bahay ni raylee start of vid
+- Pagtingin sa mapa, donut
+- Yan ganiyan siya daanan
+- Very satisfied mga paa ni berto
+- Busyng busy siya
+- Gagawin pader, Genshin inspo
+- Three required blocks
+- Monument raylee loc
+- The journey
+- Eventually na-reach din
+- First ocean raid, 11 year of mc
+- The moment na sumugod, walang food
+- Masterchef bgm
+- First time, di alam sugurin
+- Pero malakas dahil netherite
+- Swinerte pa
+- Pero dito…
+- Di na
+- Gusto patayin lahat bago pumasok
+- Niyoutube
+- Mission passed respect
+- Doors every now and then kahit resp 3
+- Goal mapatay 3 elder guardian
+- eventually after 21 doors, 500 guardians and 9000 corridors later
+- Kinuha mga sponge
+- Diretso sa center
+- Syempre yung pinunta natin dark prismarine
+- Dark-prisma non-renewable
+- And yes pati yung nasa harapan kinuha ko
+- All in all naka almost 4 stack
+- Dark prismarine done

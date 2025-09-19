@@ -1,0 +1,42 @@
+---
+Date‎: "[[2025年05月10日 (Sat)]]"
+Tags‎:
+  - "[[dreams]]"
+---
+- Dreamed about a pool outing in a public resort.
+- May dalawang girls na nagsslide ng katawan sa edge ng pool, right side
+- Nakadapa yung isa with both feet raised na hawak naman nung isa na kaniya namang tinutulak, may hawak din siyang hose na nakatutok sa harapan to reduce friction at para dumulas
+- The two girls, isang matabang babae isang payat na maganda
+- Yung maganda yung nagtutulak, yung mataba yung nakadapa
+- Nakialam ako ngayon sa kanila
+- “Ate ako naman,” sabi ko sa payat
+- Pumayag naman siya
+- She has a very playful personality
+- Dinala niya ako hanggang sa may dulo balikan having fun
+- Basta we were getting to know sheesh
+- Then nakalimutan ko na iba afterwards, basta dun sa may left side sa may pababa don, nag-stop ata kaming magtulakan
+- Then sa pagbagsak namin very intimate yung pwesto
+- Up close she kinda looks like Faith and Pia combined, so she was really beautiful
+- Sinubukan kong hawakan kamay niya, yung interlaced fingers typa shi, nung una she kind of hesitated but locked on anyways
+- Then pumatong siya sa akin backwards and twerked, I slapped her ass anyways
+- Then some transition na ewan
+- I challenged her na itulak ako dun sa may sobrang steep na pataas
+- Kailangan lang niya ako itulak nang mataas para makaakyat ako sa may platform
+- Unang attempt failed
+- Kaunting discussion
+- Then nung pangalawa nilakasan na niya
+- Nakaakyat na ako sa platform but I struggled to hold on dahil arms and hands ko lang ang nakapatong sa platform and shoulder strength yun
+- Eventually I overcame and nasa taas yung mataba sa platform waiting
+- Then may timer na red sa gilid that read "1.000 s," meaning yun ata yung time before I got stable on the platform
+- Transition kay nanay na inaakay ko sa may labas ng dating bahay (ewan ko bat nandun yun)
+- Then nandun din sila kuya sa may indoor pool kanina pa pala ako hinahanap
+- Chinachallenge ako sa ml sa may lumang pool
+- Bumalik lang ako sa cottage (indoor room) para kuhanin cp
+- Then pagbalik ko no show naman ibang mga kasama o kalaban
+- Bumalik na lang ako cottage then nakita ko sa Messenger ko may gc na kami nung girls
+- Backread to confirm and sila nga yun
+- Ni-like ko ngayon syempre nasa spam yun eh para makapagmessage ako
+- I sent “Nawala na ang mga batang ire”
+- Then nagrespond yung babae “Oh Clark,” as if she was surprised that my name was Clark
+- The thing is, I don't use that name anymore on Facebook
+- Then the dream ends

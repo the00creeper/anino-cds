@@ -1,0 +1,74 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] • Random me videos
+- [X] • Minecraft
+- [X] • DanTDM
+- [X] • Music sheets
+- [X] • Piano and guitar
+- [X] • Orchestra
+- [X] • Oboe
+- [X] • Space astronomy
+- [X] • Hibike Euphonium
+- [X] • Liz and the Blue Bird
+- [X] • K-On
+- [X] • Your Name
+- [X] • Weathering with You
+- [X] • Volleyball
+- [X] • Genshin Impact
+- [X] • Terraria
+- [X] • ML
+- [X] • Wild Rift
+- [X] • Geometry Dash
+- [X] • Old content videos (firs aid, projectile motion)
+- [X] • Science
+- [X] • Electronics and Robotics (videos from phone)
+- [X] • TV Broadcasting (graphics editing, anchor)
+- [X] • Premiere Pro, After Effects
+- [X] • Filming
+- [X] • Kung Fu Panda
+- [X] • STEM and STE
+- [X] • Knowledge Channels (Vsauce, Kurzgesagt, Vox, Veritasium)
+- [X] • Japanese culture (and language)
+- [X] • Filipino history (1890s, Gomburza clips)
+- [X] • Nazi Germany, Communist Russia
+- [X] • The Little Prince
+- [X] • Siya (syempre)
+- [X] • The color yellow (Van Gogh)
+- [X] • Queen
+- [X] • Ben&Ben
+- [X] • Eraserheads
+- [X] • Yorushika (thats why I gave up, spring thief, itte)
+- [X] • the peggies
+- [X] • RADWIMPS
+- [X] • uchuu nekoko (like a raspberry, hibi no awa)
+- [X] • Iberis Song (definitely)
+- [X] • Night Fury (na motor)
+- [X] • Research 
+- [X] • Statistics
+- [X] • Wesleyan
+- [X] • UST
+- [X] • Kalokohan videos
+- [X] • That self portrait drawing (sir sicat)
+- [X] • Old memes
+- [X] • Philosophy (Ancient Greece)
+- [X] • Blend P
+- [X] • Cabiao anime edit
+- [X] • Old aesthetic edits
+- [X] • Chommang
+- [X] • Surreal memes
+- [X] • Yellow (Coldplay)
+- [X] • STE Lavoisier
+- [X] • Grade 10 Grad speech
+- [X] • Bad Apple Touhou
+- [X] • Nichijou
+- [X] • Dragon Maid
+- [X] • Kyoto Animation
+- [X] • STE Badge sa bag
+- [X] • Yakult
+- [X] • GJC ID lace
+- [X] • Euler (Isa Tayo)
+- [X] K-On! Stickers
