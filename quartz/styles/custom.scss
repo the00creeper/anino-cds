@@ -1,3 +1,75 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@font-face {
+  font-family: "NY";
+  src: url("/static/fonts/NewYorkSmall-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("/static/fonts/NewYorkSmall-RegularItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("/static/fonts/NewYorkSmall-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("/static/fonts/NewYorkSmall-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "NY-BL";
+  src: url("/static/fonts/NewYorkSmall-Black.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "NY-BL", serif;
+}
+
+h2 {
+  font-family: "NY-BL", serif;
+}
+
+body {
+  font-family: "NY", serif;
+}
+
+.site-title a {
+  font-family: "NY-BL", serif;   // heavy font
+  font-size: 1.4rem;
+  text-decoration: none;         // optional
+}
+
+.breadcrumbs a {
+  font-family: "NY", serif;
+  font-size: 0.9rem;
+}
+.sidebar .explorer a {
+  font-family: "NY", serif;
+}
+
+.folder-container a {
+  font-family: "NY-BL", serif;
+}
+
+a {
+  font-family: "NY-BL", serif;
+}
+
+.external a {
+  font-family: "NY", serif;
+}
