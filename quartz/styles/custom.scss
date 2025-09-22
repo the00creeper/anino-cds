@@ -52,29 +52,30 @@ body {
   font-family: "NY", serif;
 }
 
-.site-title a {
-  font-family: "NY-BL", serif;   // heavy font
-  font-size: 1.4rem;
-  text-decoration: none;         // optional
+// anino cds
+.page-title a {
+  font-family: "NY-BL", serif;
+  font-size: 1.8rem;
 }
 
-.breadcrumbs a {
-  font-family: "NY", serif;
-  font-size: 0.9rem;
-}
-
+// committee font
 .sidebar .explorer a {
   font-family: "NY", serif;
+  font-weight: bold;
 }
 
-.folder-container a {
-  font-family: "NY-BL", serif;
+// committee dropdown size
+.explorer a {
+  font-size: 0.90rem;
 }
 
-a {
-  font-family: "NY-BL", serif;
-}
-
+// documentation link
 .external a {
+  font-family: "NY", serif;
+
+}
+
+/* Breadcrumbs (Home > Committee) */
+.breadcrumb-container a {
   font-family: "NY", serif;
 }

@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.name.startsWith("w")
+        - file.folder == ""
