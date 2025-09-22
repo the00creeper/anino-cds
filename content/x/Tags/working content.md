@@ -1,1 +1,0 @@
-Notes under this tag are converted to the [[posted content]] tag once they have been completed.

@@ -1,0 +1,1 @@
+Di pa gising si Pierre kinginang yan
