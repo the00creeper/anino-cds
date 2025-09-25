@@ -2,11 +2,18 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"type": "npm",
-			"script": "docs",
-			"problemMatcher": [],
-			"label": "npm: docs",
-			"detail": "npx quartz build --serve -d docs"
+			"label": "Build Quartz",
+			"type": "shell",
+			"command": "npx quartz build --serve",
+			"group": "build",
+			"problemMatcher": []
+		},
+		{
+			"label": "Sync Quartz",
+			"type": "shell",
+			"command": "npx quartz sync",
+			"group": "sync",
+			"problemMatcher": []
 		}
 	]
 }
