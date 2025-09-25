@@ -8,9 +8,8 @@ Basta, *malupit to*, **boi**!
 <!-- QueryToSerialize: TABLE date as "Date" FROM [[templates/Development Report]] SORT date DESC -->
 <!-- SerializedQuery: TABLE date as "Date" FROM [[templates/Development Report]] SORT date DESC -->
 
-| File                                                                          | Date                                                    |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[DEV-CSD-001-20250914]] | [[2025-09-14 (Sun)]] |
+| File | Date |
+| ---- | ---- |
 <!-- SerializedQuery END -->
 # Meetings
 <!-- QueryToSerialize: TABLE date as "Date" FROM [[Urgent]] or [[General]] SORT date DESC -->
