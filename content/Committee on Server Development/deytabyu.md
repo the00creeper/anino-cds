@@ -17,7 +17,5 @@ SORT date DESC
 | [[content/Committee on Server Development/wow.md\|wow]]           | \-                                       |
 <!-- SerializedQuery END -->
 
-
-
 [[2]]
 [[gags]]

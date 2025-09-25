@@ -74,16 +74,16 @@ plugins: {
 }
 ```
 
-- [[tags/plugin/transformer|Transformers]] **map** over content (e.g. parsing frontmatter, generating a description)
-- [[tags/plugin/filter|Filters]] **filter** content (e.g. filtering out drafts)
-- [[tags/plugin/emitter|Emitters]] **reduce** over content (e.g. creating an RSS feed or pages that list all files with a specific tag)
+- [[plugin/transformer|Transformers]] **map** over content (e.g. parsing frontmatter, generating a description)
+- [[plugin/filter|Filters]] **filter** content (e.g. filtering out drafts)
+- [[plugin/emitter|Emitters]] **reduce** over content (e.g. creating an RSS feed or pages that list all files with a specific tag)
 
 You can customize the behaviour of Quartz by adding, removing and reordering plugins in the `transformers`, `filters` and `emitters` fields.
 
 > [!note]
 > Each node is modified by every transformer _in order_. Some transformers are position sensitive, so you may need to pay particular attention to whether they need to come before or after certain other plugins.
 
-You should take care to add the plugin to the right entry corresponding to its plugin type. For example, to add the [[ExplicitPublish]] plugin (a [[tags/plugin/filter|Filter]]), you would add the following line:
+You should take care to add the plugin to the right entry corresponding to its plugin type. For example, to add the [[plugin/filter|Filter]]), you would add the following line:
 
 ```ts title="quartz.config.ts"
 filters: [
@@ -97,7 +97,7 @@ To remove a plugin, you should remove all occurrences of it in the `quartz.confi
 
 To customize plugins further, some plugins may also have their own configuration settings that you can pass in. If you do not pass in a configuration, the plugin will use its default settings.
 
-For example, the [[plugins/Latex|Latex]] plugin allows you to pass in a field specifying the `renderEngine` to choose between Katex and MathJax.
+For example, the [[Latex|Latex]] plugin allows you to pass in a field specifying the `renderEngine` to choose between Katex and MathJax.
 
 ```ts title="quartz.config.ts"
 transformers: [
@@ -108,7 +108,7 @@ transformers: [
 
 Some plugins are included by default in the [`quartz.config.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz.config.ts), but there are more available.
 
-You can see a list of all plugins and their configuration options [[tags/plugin|here]].
+You can see a list of all plugins and their configuration options [[plugin|here]].
 
 If you'd like to make your own plugins, see the [[making plugins|making custom plugins]] guide.
 

@@ -1,7 +1,7 @@
 ---
 Parent Agenda: M-GM-001-20250921
 Meeting Type: General
-Date: 2025-09-21
+Date: 2025-09-21 (Sun)
 Time: 09:30 pm
 ---
 ```

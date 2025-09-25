@@ -40,11 +40,7 @@ h1 {
   font-family: "NY-BL", serif;
 }
 
-h2 {
-  font-family: "NY-BL", serif;
-}
-
-h3 {
+h2, h3, h4, h5, h6 {
   font-family: "NY", serif;
 }
 
@@ -77,5 +73,9 @@ body {
 
 /* Breadcrumbs (Home > Committee) */
 .breadcrumb-container a {
+  font-family: "NY", serif;
+}
+
+th {
   font-family: "NY", serif;
 }
