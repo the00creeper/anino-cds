@@ -10,7 +10,7 @@ Basta, *malupit to*, **boi**!
 
 | File                                                                          | Date                                                    |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[content/Development Reports/DEV-CSD-001-20250914.md\|DEV-CSD-001-20250914]] | [[content/Dates/2025-09-14 (Sun).md\|2025-09-14 (Sun)]] |
+| [[2025-09-14 (Sun)|2025-09-14 (Sun)]] |
 <!-- SerializedQuery END -->
 # Meetings
 <!-- QueryToSerialize: TABLE date as "Date" FROM [[Urgent]] or [[General]] -->
@@ -18,5 +18,5 @@ Basta, *malupit to*, **boi**!
 
 | File                                                                  | Date                                                    |
 | --------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[content/Meeting Minutes/MM-UM-001-20250914.md\|MM-UM-001-20250914]] | [[content/Dates/2025-09-14 (Sun).md\|2025-09-14 (Sun)]] |
+| [[2025-09-14 (Sun)|2025-09-14 (Sun)]] |
 <!-- SerializedQuery END -->
