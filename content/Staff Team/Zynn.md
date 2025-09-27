@@ -4,6 +4,8 @@
 
 | File                                                                                             | Date                                                    |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [[DEV-CSD-001-20250914]]                    | [[2025-09-14 (Sun)]] |
-| [[Committee on Server Development]] | \-                                                      |
+| [[content/Development Reports/DEV-CSD-001-20250914.md\|DEV-CSD-001-20250914]]                    | [[content/Dates/2025-09-14 (Sun).md\|2025-09-14 (Sun)]] |
+| [[content/Staff Committees/Committee on Server Development.md\|Committee on Server Development]] | \-                                                      |
+| [[content/index.md\|index]]                                                                      | \-                                                      |
 <!-- SerializedQuery END -->
+# Meetings Attended
