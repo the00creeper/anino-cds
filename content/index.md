@@ -10,7 +10,7 @@ Basta, *malupit to*, **boi**!
 
 | File                                                                          | Committee                                                                                        | Proponent                            | Date                                                    |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------- |
-| [[content/Development Reports/DEV-CSD-001-20250914.md\|DEV-CSD-001-20250914]] | [[content/Staff Committees/Committee on Server Development.md\|Committee on Server Development]] | [[content/Staff Team/Zynn.md\|Zynn]] | [[content/Dates/2025-09-14 (Sun).md\|2025-09-14 (Sun)]] |
+| [[DEV-CSD-001-20250914]] | [[Committee on Server Development]] | [[Zynn]] | [[2025-09-14 (Sun)]] |
 <!-- SerializedQuery END -->
 # Meetings
 <!-- QueryToSerialize: TABLE date as "Date" from "content" where contains(file.outlinks, [[tags/Minutes (Urgent)|Minutes (Urgent)]]) or contains(file.outlinks, [[tags/Minutes (General)|Minutes (General)]]) or contains(file.outlinks, [[tags/Minutes (Committee)|Minutes (Committee)]]) SORT date DESC -->
@@ -18,10 +18,10 @@ Basta, *malupit to*, **boi**!
 
 | File                                                                    | Date                                                    |
 | ----------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[content/Meeting Minutes/MM-CMC-001-20250925.md\|MM-CMC-001-20250925]] | [[content/Dates/2025-09-25 (Thu).md\|2025-09-25 (Thu)]] |
-| [[content/Meeting Minutes/MM-UM-001-20250914.md\|MM-UM-001-20250914]]   | [[content/Dates/2025-09-14 (Sun).md\|2025-09-14 (Sun)]] |
-| [[content/Meeting Minutes/MM-GM-002-20250927.md\|MM-GM-002-20250927]]   | [[2025-09-27 (Sat)\|2025-09-27 (Sat)]]                  |
+| [[MM-CMC-001-20250925]] | [[2025-09-25 (Thu)]] |
+| [[MM-UM-001-20250914]]   | [[2025-09-14 (Sun)]] |
 <!-- SerializedQuery END -->
+
 
 
 
