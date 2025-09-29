@@ -1,0 +1,18 @@
+# Development Reports
+<!-- QueryToSerialize: TABLE Proponent, date as "Date" FROM [[Committee on Builds and Design]] and [[tags/Development Report]] SORT file.name DESC -->
+<!-- SerializedQuery: TABLE Proponent, date as "Date" FROM [[Committee on Builds and Design]] and [[tags/Development Report]] SORT file.name DESC -->
+
+| File                                                                          | Proponent                                                                                                       | Date                                                    |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [[content/Development Reports/DEV-CBD-011-20250918.md\|DEV-CBD-011-20250918]] | [[content/Staff Team/Madeline.md\|Madeline]]                                                                    | [[content/Dates/2025-09-18 (Thu).md\|2025-09-18 (Thu)]] |
+| [[content/Development Reports/DEV-CBD-010-20250913.md\|DEV-CBD-010-20250913]] | [[content/Staff Team/Madeline.md\|Madeline]]                                                                    | [[content/Dates/2025-09-13 (Sat).md\|2025-09-13 (Sat)]] |
+| [[content/Development Reports/DEV-CBD-009-20250911.md\|DEV-CBD-009-20250911]] | [[content/Staff Team/Hanne.md\|Hanne]]                                                                          | [[content/Dates/2025-09-11 (Thu).md\|2025-09-11 (Thu)]] |
+| [[content/Development Reports/DEV-CBD-008-20250910.md\|DEV-CBD-008-20250910]] | [[content/Staff Team/Hanne.md\|Hanne]]                                                                          | [[content/Dates/2025-09-10 (Wed).md\|2025-09-10 (Wed)]] |
+| [[content/Development Reports/DEV-CBD-007-20250910.md\|DEV-CBD-007-20250910]] | [[content/Staff Team/Jade.md\|Jade]]                                                                            | [[content/Dates/2025-09-10 (Wed).md\|2025-09-10 (Wed)]] |
+| [[content/Development Reports/DEV-CBD-006-20250908.md\|DEV-CBD-006-20250908]] | [[content/Staff Team/Hanne.md\|Hanne]]                                                                          | [[content/Dates/2025-09-08 (Mon).md\|2025-09-08 (Mon)]] |
+| [[content/Development Reports/DEV-CBD-005-20250907.md\|DEV-CBD-005-20250907]] | [[content/Staff Team/Madeline.md\|Madeline]]                                                                    | [[content/Dates/2025-09-07 (Sun).md\|2025-09-07 (Sun)]] |
+| [[content/Development Reports/DEV-CBD-004-20250907.md\|DEV-CBD-004-20250907]] | <ul><li>[[content/Staff Team/Hanne.md\|Hanne]]</li><li>[[content/Staff Team/Madeline.md\|Madeline]]</li></ul> | [[content/Dates/2025-09-07 (Sun).md\|2025-09-07 (Sun)]] |
+| [[content/Development Reports/DEV-CBD-003-20250906.md\|DEV-CBD-003-20250906]] | [[content/Staff Team/Madeline.md\|Madeline]]                                                                    | [[content/Dates/2025-09-06 (Sat).md\|2025-09-06 (Sat)]] |
+| [[content/Development Reports/DEV-CBD-002-20250905.md\|DEV-CBD-002-20250905]] | [[content/Staff Team/Madeline.md\|Madeline]]                                                                    | [[content/Dates/2025-09-05 (Fri).md\|2025-09-05 (Fri)]] |
+| [[content/Development Reports/DEV-CBD-001-20250830.md\|DEV-CBD-001-20250830]] | [[content/Staff Team/Madeline.md\|Madeline]]                                                                    | [[content/Dates/2025-08-30 (Sat).md\|2025-08-30 (Sat)]] |
+<!-- SerializedQuery END -->
