@@ -14,7 +14,7 @@
 | [[content/Development Reports/DEV-CSD-022-20250919.md\|DEV-CSD-022-20250919]]                    | [[content/Dates/2025-09-19 (Fri).md\|2025-09-19 (Fri)]] |
 | [[content/Development Reports/DEV-CSD-023-20250923.md\|DEV-CSD-023-20250923]]                    | [[content/Dates/2025-09-23 (Tue).md\|2025-09-23 (Tue)]] |
 | [[content/Development Reports/DEV-CSD-024-20250924.md\|DEV-CSD-024-20250924]]                    | [[content/Dates/2025-09-24 (Wed).md\|2025-09-24 (Wed)]] |
+| [[content/Development Reports/DEV-CSD-025-20250928.md\|DEV-CSD-025-20250928]]                    | [[content/Dates/2025-09-24 (Wed).md\|2025-09-24 (Wed)]] |
 | [[content/Staff Committees/Committee on Server Development.md\|Committee on Server Development]] | \-                                                      |
-| [[content/index.md\|index]]                                                                      | \-                                                      |
 <!-- SerializedQuery END -->
 # Meetings Attended
