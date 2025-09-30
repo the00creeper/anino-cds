@@ -40,8 +40,26 @@ h1 {
   font-family: "NY-BL", serif;
 }
 
-h2, h3, h4, h5, h6 {
+.page article h1 {
+  font-family: "NY-BL", serif;
+  margin-bottom: -0.5em !important;
+}
+
+h2 {
   font-family: "NY", serif;
+  margin-top: 1em !important;
+  margin-bottom: -0.5em !important;
+}
+
+h3 {
+  font-family: "NY", serif;
+  margin-top: 1em !important;
+  margin-bottom: -0.5em !important;
+}
+
+h4, h5, h6 {
+  font-family: "NY", serif;
+  margin-bottom: -0.5em !important;
 }
 
 body {
@@ -78,4 +96,19 @@ body {
 
 th, a.internal, strong, li {
   font-family: "NY", serif;
+}
+
+table {
+  width: 95%;
+  table-layout: auto;   /* lets columns size naturally but still span full width */
+  border-collapse: collapse;
+  margin-top: -0.75em !important;
+  margin-bottom: 0.5rem !important;
+}
+
+table th,
+table td {
+  padding: 0.3em;
+  word-wrap: break-word;
+  white-space: normal;
 }
