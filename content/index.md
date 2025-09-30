@@ -16,9 +16,9 @@ Basta, *malupit to*, **boi**!
 
 | File                                                                    | Date                                                    |
 | ----------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[content/Meeting Minutes/MM-CMC-001-20250925.md\|MM-CMC-001-20250925]] | [[content/Dates/2025-09-25 (Thu).md\|2025-09-25 (Thu)]] |
-| [[content/Meeting Minutes/MM-URM-001-20250914.md\|MM-URM-001-20250914]] | [[content/Dates/2025-09-14 (Sun).md\|2025-09-14 (Sun)]] |
-| [[content/Meeting Minutes/MM-GNM-001-20250829.md\|MM-GNM-001-20250829]] | [[content/Dates/2025-08-29 (Fri).md\|2025-08-29 (Fri)]] |
+| [[MM-CMC-001-20250925]] | [[2025-09-25 (Thu)]] |
+| [[MM-URM-001-20250914]] | [[2025-09-14 (Sun)]] |
+| [[MM-GNM-001-20250829]] | [[2025-08-29 (Fri)]] |
 <!-- SerializedQuery END -->
 
 
