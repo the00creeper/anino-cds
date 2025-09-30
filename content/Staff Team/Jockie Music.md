@@ -7,7 +7,7 @@ Committee: "[[Committee on Moderation and Administration]]"
 
 | File                                                                          | Date                                                    |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[DEV-CMA-004-20250929]] | [[2025-09-29 (Mon)]] |
-| [[DEV-CMA-003-20250929]] | [[2025-09-29 (Mon)]] |
-| [[DEV-CBD-012-20250928]] | [[2025-09-28 (Sun)]] |
+| [[content/Development Reports/DEV-CMA-004-20250929.md\|DEV-CMA-004-20250929]] | [[content/Dates/2025-09-29 (Mon).md\|2025-09-29 (Mon)]] |
+| [[content/Development Reports/DEV-CMA-003-20250929.md\|DEV-CMA-003-20250929]] | [[content/Dates/2025-09-29 (Mon).md\|2025-09-29 (Mon)]] |
+| [[content/Development Reports/DEV-CBD-012-20250928.md\|DEV-CBD-012-20250928]] | [[content/Dates/2025-09-28 (Sun).md\|2025-09-28 (Sun)]] |
 <!-- SerializedQuery END -->

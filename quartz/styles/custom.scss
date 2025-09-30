@@ -102,7 +102,6 @@ table {
   width: 95%;
   table-layout: auto;   /* lets columns size naturally but still span full width */
   border-collapse: collapse;
-  margin-top: -0.75em !important;
   margin-bottom: 0.5rem !important;
 }
 
@@ -111,4 +110,8 @@ table td {
   padding: 0.3em;
   word-wrap: break-word;
   white-space: normal;
+}
+
+.callout-title {
+  margin-bottom: -1em !important;
 }

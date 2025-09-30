@@ -1,6 +1,8 @@
 ---
 title: Centralized Documentation System
 created: 2025-09-16T17:54:00
+description: Eh ano naman
+image: '"https://preview.redd.it/fern-frieren-beyond-journeys-end-erochik0n-v0-k9ez4h63jbsf1.png?width=1080&crop=smart&auto=webp&s=ac440234ddb61617b0c368691163317bdae7e316"'
 ---
 Basta, *malupit to*, **boi**!
 # Committees

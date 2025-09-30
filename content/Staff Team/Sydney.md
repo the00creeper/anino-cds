@@ -8,8 +8,3 @@ Committee: "[[Committee on Moderation and Administration]]"
 | File | Date |
 | ---- | ---- |
 <!-- SerializedQuery END -->
-<!-- SerializedQuery: TABLE date as "Date" FROM [[tags/Development Report]] and [[Sydney]] SORT file.name DESC -->
-
-| File | Date |
-| ---- | ---- |
-<!-- SerializedQuery END -->
