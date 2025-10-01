@@ -34,13 +34,13 @@ Covers and disseminates news about server changes, events, and player lore.
 | [[Aulsie]]                           | [[Committee on Server Development]]                       |
 | [[Bruce]]                             | [[Committee on Server Development]]                       |
 | [[Carl]]                               | [[Committee on Server Development]]                       |
+| [[Elc]]                                 | [[Committee on Server Development]]                       |
 | [[LiXuan]]                           | [[Committee on Server Development]]                       |
 | [[SoulBaron]]                     | [[Committee on Server Development]]                       |
-| [[Elc]]                                 | [[Committee on Server Development]]                       |
 | [[Supersaturated Sago]] | [[Committee on Server Development]]                       |
 | [[Tenshiii]]                       | [[Committee on Server Development]]                       |
-| [[Yuuki]]                             | [[Committee on Server Development]]                       |
 | [[Zynn]]                               | [[Committee on Server Development]]                       |
+| [[Yuuki]]                             | [[Committee on Server Development]]                       |
 <!-- SerializedQuery END -->
 # Meetings
 <!-- QueryToSerialize: TABLE date as "Date" from "content" where contains(file.outlinks, [[tags/Minutes (Urgent)|Minutes (Urgent)]]) or contains(file.outlinks, [[tags/Minutes (General)|Minutes (General)]]) or contains(file.outlinks, [[tags/Minutes (Committee)|Minutes (Committee)]]) or contains(file.outlinks, [[tags/Minutes (Player-Staff)]]) SORT date DESC -->
