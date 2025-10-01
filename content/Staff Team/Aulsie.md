@@ -7,12 +7,12 @@ Committee: "[[Committee on Server Development]]"
 
 | File                                                                          | Date                                                    |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[content/Development Reports/DEV-CSD-014-20250911.md\|DEV-CSD-014-20250911]] | [[content/Dates/2025-09-11 (Thu).md\|2025-09-11 (Thu)]] |
-| [[content/Development Reports/DEV-CSD-013-20250911.md\|DEV-CSD-013-20250911]] | [[content/Dates/2025-09-11 (Thu).md\|2025-09-11 (Thu)]] |
-| [[content/Development Reports/DEV-CSD-009-20250831.md\|DEV-CSD-009-20250831]] | [[content/Dates/2025-08-31 (Sun).md\|2025-08-31 (Sun)]] |
-| [[content/Development Reports/DEV-CSD-008-20250831.md\|DEV-CSD-008-20250831]] | [[content/Dates/2025-08-31 (Sun).md\|2025-08-31 (Sun)]] |
-| [[content/Development Reports/DEV-CSD-007-20250831.md\|DEV-CSD-007-20250831]] | [[content/Dates/2025-08-31 (Sun).md\|2025-08-31 (Sun)]] |
-| [[content/Development Reports/DEV-CSD-006-20250831.md\|DEV-CSD-006-20250831]] | [[content/Dates/2025-08-31 (Sun).md\|2025-08-31 (Sun)]] |
-| [[content/Development Reports/DEV-CSD-005-20250831.md\|DEV-CSD-005-20250831]] | [[content/Dates/2025-08-31 (Sun).md\|2025-08-31 (Sun)]] |
-| [[content/Development Reports/DEV-CSD-004-20250831.md\|DEV-CSD-004-20250831]] | [[content/Dates/2025-08-31 (Sun).md\|2025-08-31 (Sun)]] |
+| [[DEV-CSD-014-20250911]] | [[2025-09-11 (Thu)\|2025-09-11 (Thu)]]                  |
+| [[DEV-CSD-013-20250911]] | [[2025-09-11 (Thu)\|2025-09-11 (Thu)]]                  |
+| [[DEV-CSD-009-20250831]] | [[2025-08-31 (Sun)]] |
+| [[DEV-CSD-008-20250831]] | [[2025-08-31 (Sun)]] |
+| [[DEV-CSD-007-20250831]] | [[2025-08-31 (Sun)]] |
+| [[DEV-CSD-006-20250831]] | [[2025-08-31 (Sun)]] |
+| [[DEV-CSD-005-20250831]] | [[2025-08-31 (Sun)]] |
+| [[DEV-CSD-004-20250831]] | [[2025-08-31 (Sun)]] |
 <!-- SerializedQuery END -->
