@@ -24,8 +24,8 @@ Covers and disseminates news about server changes, events, and player lore.
 | [[Totally_Random]]           | [[Committee on Media and Communications]]           |
 | [[Eca]]                                 | [[Committee on Moderation and Administration]] |
 | [[Hanne]]                             | [[Committee on Moderation and Administration]] |
-| [[Jade]]                               | [[Committee on Moderation and Administration]] |
 | [[Jisaks]]                           | [[Committee on Moderation and Administration]] |
+| [[Jade]]                               | [[Committee on Moderation and Administration]] |
 | [[Jockie Music]]               | [[Committee on Moderation and Administration]] |
 | [[Kenzo]]                             | [[Committee on Moderation and Administration]] |
 | [[Kian]]                               | [[Committee on Moderation and Administration]] |
@@ -35,9 +35,9 @@ Covers and disseminates news about server changes, events, and player lore.
 | [[Bruce]]                             | [[Committee on Server Development]]                       |
 | [[Carl]]                               | [[Committee on Server Development]]                       |
 | [[Elc]]                                 | [[Committee on Server Development]]                       |
-| [[LiXuan]]                           | [[Committee on Server Development]]                       |
 | [[SoulBaron]]                     | [[Committee on Server Development]]                       |
 | [[Supersaturated Sago]] | [[Committee on Server Development]]                       |
+| [[LiXuan]]                           | [[Committee on Server Development]]                       |
 | [[Tenshiii]]                       | [[Committee on Server Development]]                       |
 | [[Yuuki]]                             | [[Committee on Server Development]]                       |
 | [[Zynn]]                               | [[Committee on Server Development]]                       |
@@ -49,7 +49,10 @@ Covers and disseminates news about server changes, events, and player lore.
 | File                                                                    | Date                                                    |
 | ----------------------------------------------------------------------- | ------------------------------------------------------- |
 | [[MM-CMC-001-20250925]] | [[2025-09-25 (Thu)]] |
+| [[MM-URM-002-20250925]] | [[2025-09-25 (Thu)]] |
 | [[MM-URM-001-20250914]] | [[2025-09-14 (Sun)]] |
+| [[MM-GNM-002-20250909]] | [[2025-09-09 (Tue)]] |
+| [[MA-GNM-002-20250909]] | [[2025-08-29 (Fri)]] |
 | [[MM-GNM-001-20250829]] | [[2025-08-29 (Fri)]] |
 <!-- SerializedQuery END -->
 
