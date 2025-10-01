@@ -15,3 +15,6 @@ Date‎: '[[<% tp.file.creation_date("Y-MM-DD (ddd)") %>]]'
 > | **Time End**      |        |
 
 ---
+# Attendance
+# Minutes of the Meeting
+# Plan of Action
