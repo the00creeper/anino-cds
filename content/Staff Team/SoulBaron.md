@@ -7,5 +7,5 @@ Committee: "[[Committee on Server Development]]"
 
 | File                                                                          | Date                                                    |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[DEV-CSD-012-20250910]] | [[2025-09-10 (Wed)]] |
+| [[content/Development Reports/DEV-CSD-012-20250910.md\|DEV-CSD-012-20250910]] | [[content/Dates/2025-09-10 (Wed).md\|2025-09-10 (Wed)]] |
 <!-- SerializedQuery END -->
