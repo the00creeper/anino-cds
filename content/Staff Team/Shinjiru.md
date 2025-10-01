@@ -8,3 +8,4 @@ Committee: "[[Committee on Media and Communications]]"
 | File | Date |
 | ---- | ---- |
 <!-- SerializedQuery END -->
+Teka di ko pa naaayos sakin pota
