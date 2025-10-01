@@ -105,13 +105,18 @@ table {
   margin-bottom: 0.5rem !important;
 }
 
-table th,
-table td {
+table th, table td {
+  font-family: "NY", serif;
   padding: 0.3em;
   word-wrap: break-word;
   white-space: normal;
 }
 
+.table-container, em {
+  font-family: "NY", serif;
+}
+
 .callout-title {
+  font-family: "NY", serif;
   margin-bottom: -1em !important;
 }
