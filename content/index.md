@@ -23,38 +23,38 @@ Covers and disseminates news about server changes, events, and player lore.
 | [[Shinjiru]]                       | [[Committee on Media and Communications]]           |
 | [[Totally_Random]]           | [[Committee on Media and Communications]]           |
 | [[Eca]]                                 | [[Committee on Moderation and Administration]] |
-| [[Hanne]]                             | [[Committee on Moderation and Administration]] |
 | [[Jade]]                               | [[Committee on Moderation and Administration]] |
 | [[Jisaks]]                           | [[Committee on Moderation and Administration]] |
+| [[Hanne]]                             | [[Committee on Moderation and Administration]] |
 | [[Jockie Music]]               | [[Committee on Moderation and Administration]] |
 | [[Kenzo]]                             | [[Committee on Moderation and Administration]] |
 | [[Kian]]                               | [[Committee on Moderation and Administration]] |
 | [[Samichi]]                         | [[Committee on Moderation and Administration]] |
 | [[Sydney]]                           | [[Committee on Moderation and Administration]] |
 | [[Aulsie]]                           | [[Committee on Server Development]]                       |
-| [[Bruce]]                             | [[Committee on Server Development]]                       |
 | [[Carl]]                               | [[Committee on Server Development]]                       |
+| [[Bruce]]                             | [[Committee on Server Development]]                       |
 | [[Elc]]                                 | [[Committee on Server Development]]                       |
 | [[LiXuan]]                           | [[Committee on Server Development]]                       |
 | [[SoulBaron]]                     | [[Committee on Server Development]]                       |
 | [[Supersaturated Sago]] | [[Committee on Server Development]]                       |
 | [[Tenshiii]]                       | [[Committee on Server Development]]                       |
-| [[Zynn]]                               | [[Committee on Server Development]]                       |
 | [[Yuuki]]                             | [[Committee on Server Development]]                       |
+| [[Zynn]]                               | [[Committee on Server Development]]                       |
 <!-- SerializedQuery END -->
 # Meetings
 <!-- QueryToSerialize: TABLE date as "Date" from "content" where contains(file.outlinks, [[tags/Minutes (Urgent)|Minutes (Urgent)]]) or contains(file.outlinks, [[tags/Minutes (General)|Minutes (General)]]) or contains(file.outlinks, [[tags/Minutes (Committee)|Minutes (Committee)]]) or contains(file.outlinks, [[tags/Minutes (Player-Staff)]]) SORT date DESC -->
 <!-- SerializedQuery: TABLE date as "Date" from "content" where contains(file.outlinks, [[tags/Minutes (Urgent)|Minutes (Urgent)]]) or contains(file.outlinks, [[tags/Minutes (General)|Minutes (General)]]) or contains(file.outlinks, [[tags/Minutes (Committee)|Minutes (Committee)]]) or contains(file.outlinks, [[tags/Minutes (Player-Staff)]]) SORT date DESC -->
 
-| File                                                                    | Date                                                    |
-| ----------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[MM-PST-002-20250928]] | [[2025-09-28 (Sun)]] |
-| [[MM-GEN-003-20250927]] | [[2025-09-27 (Sat)]] |
-| [[MM-CMC-001-20250925]] | [[2025-09-25 (Thu)]] |
-| [[MM-PST-001-20250925]] | [[2025-09-25 (Thu)]] |
-| [[MM-URG-001-20250914]] | [[2025-09-14 (Sun)]] |
-| [[MM-GEN-002-20250909]] | [[2025-09-09 (Tue)]] |
-| [[MM-GEN-001-20250829]] | [[2025-08-29 (Fri)]] |
+| File                                                                    | Date               |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[MM-PST-002-20250928]] | September 28, 2025 |
+| [[MM-GEN-003-20250927]] | September 27, 2025 |
+| [[MM-CMC-001-20250925]] | September 25, 2025 |
+| [[MM-PST-001-20250925]] | September 25, 2025 |
+| [[MM-URG-001-20250914]] | September 14, 2025 |
+| [[MM-GEN-002-20250909]] | September 09, 2025 |
+| [[MM-GEN-001-20250829]] | July 29, 2025      |
 <!-- SerializedQuery END -->
 
 

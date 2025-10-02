@@ -60,7 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.RecentNotes({
        title: "Recent Documents", 
        limit: 5,
-       filter: (f) => (f.slug ?? "").startsWith("Development-Reports"),
+       filter: (f) => (f.slug ?? "").startsWith("Development-Reports"), 
       }
     ),
   ],

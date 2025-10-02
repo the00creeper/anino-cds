@@ -5,7 +5,7 @@ Committee: "[[Committee on Server Development]]"
 <!-- QueryToSerialize: TABLE date as "Date" FROM [[tags/Development Report]] and [[Elc]] SORT file.name DESC -->
 <!-- SerializedQuery: TABLE date as "Date" FROM [[tags/Development Report]] and [[Elc]] SORT file.name DESC -->
 
-| File                                                                          | Date                                                    |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[DEV-CSD-011-20250908]] | [[2025-09-08 (Mon)]] |
+| File                                                                          | Date               |
+| ----------------------------------------------------------------------------- | ------------------ |
+| [[DEV-CSD-011-20250908]] | September 08, 2025 |
 <!-- SerializedQuery END -->
