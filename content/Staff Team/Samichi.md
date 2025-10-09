@@ -5,6 +5,7 @@ Committee: "[[Committee on Moderation and Administration]]"
 <!-- QueryToSerialize: TABLE date as "Date" FROM [[tags/Development Report]] and [[Samichi]] SORT file.name DESC -->
 <!-- SerializedQuery: TABLE date as "Date" FROM [[tags/Development Report]] and [[Samichi]] SORT file.name DESC -->
 
-| File | Date |
-| ---- | ---- |
+| File                                                                          | Date               |
+| ----------------------------------------------------------------------------- | ------------------ |
+| [[content/Development Reports/DEV-COS-014-20250927.md\|DEV-COS-014-20250927]] | September 27, 2025 |
 <!-- SerializedQuery END -->

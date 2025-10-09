@@ -13,7 +13,7 @@ Date‎: '[[<% tp.file.creation_date("Y-MM-DD (ddd)") %>]]'
 > | **Time In**      |     |
 > | **Time Out**     |     |
 > | **Previous**     |     |
-> | **Next**     |     |
+> | **Next**    |     |
 
 ---
 
