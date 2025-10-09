@@ -7,5 +7,5 @@ Committee: "[[Committee on Moderation and Administration]]"
 
 | File                                                                          | Date               |
 | ----------------------------------------------------------------------------- | ------------------ |
-| [[content/Development Reports/DEV-COS-014-20250927.md\|DEV-COS-014-20250927]] | September 27, 2025 |
+| [[DEV-COS-014-20250927]] | September 27, 2025 |
 <!-- SerializedQuery END -->
