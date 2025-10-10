@@ -51,7 +51,7 @@ const defaultOptions: GraphOptions = {
     centerForce: 0.31,
     linkDistance: 57,
     fontSize: 0.6,
-    opacityScale: 4,
+    opacityScale: 6,
     showTags: true,
     removeTags: [],
     focusOnHover: true,

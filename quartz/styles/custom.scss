@@ -100,7 +100,7 @@ th, a.internal, strong, li {
 
 table {
   width: 95%;
-  table-layout: auto;   /* lets columns size naturally but still span full width */
+  table-layout: fixed;   /* lets columns size naturally but still span full width */
   border-collapse: collapse;
   margin-bottom: 0.5rem !important;
 }
@@ -110,6 +110,7 @@ table th, table td {
   padding: 0.3em;
   word-wrap: break-word;
   white-space: normal;
+  line-height: 1.5;
 }
 
 .table-container, em {
@@ -127,4 +128,19 @@ p {
 
 .markdown-preview-view hr {
   margin-block-end: 3em;
+}
+
+/* Center Mermaid diagrams */
+.mermaid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* Optional: limit width so they don't overflow */
+.mermaid > svg {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
 }
