@@ -7,5 +7,5 @@ Committee: "[[Committee on Moderation and Administration]]"
 
 | File                                                                          | Date               |
 | ----------------------------------------------------------------------------- | ------------------ |
-| [[content/Development Reports/DEV-CBD-007-20250910.md\|DEV-CBD-007-20250910]] | September 10, 2025 |
+| [[DEV-CBD-007-20250910]] | September 10, 2025 |
 <!-- SerializedQuery END -->
