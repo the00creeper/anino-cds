@@ -39,6 +39,7 @@ export default (() => {
     return (
       <head>
         <title>{title}</title>
+        <link rel="icon" href="/favicon.ico" />
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>

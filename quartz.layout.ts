@@ -58,11 +58,20 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
     Component.RecentNotes({
-       title: "Recent Documents", 
-       limit: 5,
-       filter: (f) => (f.slug ?? "").startsWith("Development-Reports"), 
-      }
-    ),
+  title: "Recent Documents",
+  limit: 7,
+  filter: (f) => (f.slug ?? "").startsWith("Development-Reports"),
+  sort: (f1, f2) => {
+    // Sort primarily by date (descending)
+    const d1 = new Date(f1.dates?.created ?? f1.dates?.modified ?? 0).getTime()
+    const d2 = new Date(f2.dates?.created ?? f2.dates?.modified ?? 0).getTime()
+    if (d1 !== d2) return d2 - d1 // newer first
+
+    // If dates are equal, sort by slug (descending)
+    return (f2.slug ?? "").localeCompare(f1.slug ?? "")
+  },
+})
+
   ],
   right: [
     Component.Graph(),
@@ -90,3 +99,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
