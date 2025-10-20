@@ -26,15 +26,16 @@ Oversees the Centralized Documentation System and organizes staff development re
 | [[Madeline]]                       | [[Committee on Builds and Design]]                         |
 | [[Shinjiru]]                       | [[Committee on Media Communications]]                   |
 | [[Totally_Random]]           | [[Committee on Media Communications]]                   |
+| [[Jade]]                               | [[Committee on Moderation and Administration]] |
 | [[Eca]]                                 | [[Committee on Moderation and Administration]] |
 | [[Hanne]]                             | [[Committee on Moderation and Administration]] |
-| [[Jade]]                               | [[Committee on Moderation and Administration]] |
-| [[Jisaks]]                           | [[Committee on Moderation and Administration]] |
 | [[Jockie Music]]               | [[Committee on Moderation and Administration]] |
+| [[Jisaks]]                           | [[Committee on Moderation and Administration]] |
 | [[Kenzo]]                             | [[Committee on Moderation and Administration]] |
-| [[Kian]]                               | [[Committee on Moderation and Administration]] |
 | [[Samichi]]                         | [[Committee on Moderation and Administration]] |
+| [[Kian]]                               | [[Committee on Moderation and Administration]] |
 | [[Sydney]]                           | [[Committee on Moderation and Administration]] |
+| [[Isunarii]]                       | [[Committee on Moderation and Administration]] |
 | [[Aulsie]]                           | [[Committee on Server Development]]                       |
 | [[Bruce]]                             | [[Committee on Server Development]]                       |
 | [[Carl]]                               | [[Committee on Server Development]]                       |
@@ -42,9 +43,9 @@ Oversees the Centralized Documentation System and organizes staff development re
 | [[LiXuan]]                           | [[Committee on Server Development]]                       |
 | [[SoulBaron]]                     | [[Committee on Server Development]]                       |
 | [[Supersaturated Sago]] | [[Committee on Server Development]]                       |
+| [[Zynn]]                               | [[Committee on Server Development]]                       |
 | [[Tenshiii]]                       | [[Committee on Server Development]]                       |
 | [[Yuuki]]                             | [[Committee on Server Development]]                       |
-| [[Zynn]]                               | [[Committee on Server Development]]                       |
 <!-- SerializedQuery END -->
 # Meetings
 <!-- QueryToSerialize: TABLE date as "Date" from "content" where contains(file.outlinks, [[tags/Minutes (Urgent)|Minutes (Urgent)]]) or contains(file.outlinks, [[tags/Minutes (General)|Minutes (General)]]) or contains(file.outlinks, [[tags/Minutes (Committee)|Minutes (Committee)]]) or contains(file.outlinks, [[tags/Minutes (Player-Staff)]]) SORT date DESC -->
@@ -52,6 +53,8 @@ Oversees the Centralized Documentation System and organizes staff development re
 
 | File                                                                    | Date               |
 | ----------------------------------------------------------------------- | ------------------ |
+| [[MM-GEN-005-20251019]] | October 19, 2025   |
+| [[MM-GEN-004-20251013]] | October 13, 2025   |
 | [[MM-PST-002-20250928]] | September 28, 2025 |
 | [[MM-GEN-003-20250927]] | September 27, 2025 |
 | [[MM-CMC-001-20250925]] | September 25, 2025 |

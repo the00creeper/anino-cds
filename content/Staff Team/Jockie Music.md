@@ -7,6 +7,7 @@ Committee: "[[Committee on Moderation and Administration]]"
 
 | File                                                                          | Date               |
 | ----------------------------------------------------------------------------- | ------------------ |
+| [[DEV-CMA-008-20251020]] | October 20, 2025   |
 | [[DEV-CMA-007-20251009]] | October 09, 2025   |
 | [[DEV-CMA-006-20251005]] | October 05, 2025   |
 | [[DEV-CMA-005-20250930]] | September 30, 2025 |
